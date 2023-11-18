@@ -221,23 +221,8 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 
 
-<!-- CONTACT -->
-## Contact
 
-Your Name - [@linkedin_profile](https://www.linkedin.com/in/sayan-sarkar-960302252/) - sayansarkar.careers@gmail.com
-
-Project Link: [https://github.com/dyte-submissions/november-2023-hiring-sarkar-sayan](https://github.com/dyte-submissions/november-2023-hiring-sarkar-sayan)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- ACKNOWLEDGMENTS -->
-## Acknowledgments
-
-* []()
-* []()
-* []()
+ 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
